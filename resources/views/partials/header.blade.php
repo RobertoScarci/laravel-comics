@@ -1,7 +1,7 @@
 <header>
     <div class="wrapper">
         <div class="logo">
-            <img src="{{ Vite::asset('resources/img/dc.logo.png') }}" alt="DC main logo">
+            <img src="{{ Vite::asset('resources/img/dc-logo.png') }}" alt="DC main logo">
         </div>
         <nav>
             <ul>
@@ -21,5 +21,6 @@
             <input type="text" placeholder="Search">
             <i class="fa-solid fa-magnifying-glass"></i>
         </div>
+
     </div>
 </header>
